@@ -1,6 +1,7 @@
-# Library-MCP — AI-Ready College Library Management & Analytics Platform powered by MCP, Python, Docker, and Modern Enterprise Architecture.
+# Library-MCP
+- AI-Ready College Library Management & Analytics Platform powered by MCP, Python, Docker, and Modern Enterprise Architecture.
 
-# Designed and developed Library-MCP, an AI-ready College Library Management platform leveraging MCP (Model Context Protocol), Docker, Python, and MySQL. Built scalable modules for book inventory, loan lifecycle management, fines, ledger tracking, analytics, and AI integration readiness with support for future RAG and Agentic AI enhancements.
+- Designed and developed Library-MCP, an AI-ready College Library Management platform leveraging MCP (Model Context Protocol), Docker, Python, and MySQL. Built scalable modules for book inventory, loan lifecycle management, fines, ledger tracking, analytics, and AI integration readiness with support for future RAG and Agentic AI enhancements.
 
 
 # College Library Database Design
