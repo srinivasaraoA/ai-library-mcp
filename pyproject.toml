@@ -1,0 +1,14 @@
+[project]
+name = "ai-library-mcp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fastapi>=0.136.3",
+    "langchain>=1.3.2",
+    "langchain-google-genai>=4.2.3",
+    "mcp[cli]>=1.27.1",
+    "mysql-connector-python>=9.7.0",
+    "python-dotenv>=1.2.2",
+]
